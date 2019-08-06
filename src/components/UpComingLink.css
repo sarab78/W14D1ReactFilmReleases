@@ -1,0 +1,13 @@
+.upcoming-link {
+  text-align: center;
+  border: solid 3px black;
+  border-radius: 10px;
+  padding: 10px 20px;
+  margin: 10px;
+  font-size: 20px;
+  background-color: lightblue;
+}
+a {
+  color: blue;
+  text-decoration: none;
+}

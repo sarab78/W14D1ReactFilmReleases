@@ -1,0 +1,16 @@
+
+body {
+  background-color: grey;
+}
+
+.film-box {
+  background-color: Lightgrey;
+  border: solid 2px black;
+  margin-top: 30px;
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-bottom: 30px;
+  border-radius: 15px 50px 30px;
+
+
+}
